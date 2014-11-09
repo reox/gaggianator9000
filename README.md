@@ -12,6 +12,7 @@ Features i would like to implement:
 * PID
 * Menus for all kinds of stuff
 * rotational encoder for control
+* Measuring Power Consumption
 * .... ALL the things!
 
 Current Development
